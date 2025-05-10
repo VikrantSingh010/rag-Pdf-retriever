@@ -846,7 +846,7 @@ def main():
         initial_sidebar_state="expanded"
     )
 
-    st.title("📚 Enhanced PDF Analysis System")
+    st.title("📚 PDF QA System")
     st.markdown("""
     Upload PDF documents, process them with AI, and get intelligent answers to your questions.
     """)
