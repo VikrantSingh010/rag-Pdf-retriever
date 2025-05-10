@@ -28,7 +28,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter, CharacterTe
 from langchain_community.document_loaders import PyPDFLoader, PyPDFDirectoryLoader
 from langchain.schema import Document
 from dotenv import load_dotenv
-
+st.set_option("server.fileWatcherType", "none")
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
