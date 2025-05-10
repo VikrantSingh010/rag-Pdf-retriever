@@ -7,6 +7,8 @@ langchain_groq
 langchain_openai
 langchain_text_splitters
 pypdf
+numpy==1.24.4
+chromadb==0.4.17
 protobuf==3.20.3
 opentelemetry-api==1.11.1
 opentelemetry-sdk==1.11.1
