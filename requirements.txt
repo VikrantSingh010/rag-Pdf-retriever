@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain_community
+langchain_core
+langchain_chroma
+langchain_groq
+langchain_openai
+langchain_text_splitters
+pypdf>=3.17.0
+torch
+pandas
+tqdm
+huggingface_hub
+langchain_huggingface
