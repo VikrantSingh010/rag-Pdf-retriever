@@ -6,7 +6,8 @@ langchain_chroma
 langchain_groq
 langchain_openai
 langchain_text_splitters
-pypdf>=3.17.0
+pypdf
+protobuf
 torch
 pandas
 tqdm
